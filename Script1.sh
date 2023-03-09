@@ -8,4 +8,5 @@ echo "We are learning git"
 echo "We are done with git"
 echo "first commit"
 
+echo "hello"
 
